@@ -1,0 +1,21 @@
+{
+  "name": "project-one",
+  "description": "",
+  "author": "",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "devDependencies": {
+    "@types/node": "^11.11.3",
+    "typescript": "^3.4.0-dev.20190315"
+  },
+  "dependencies": {
+    "fp-ts": "1.14.2",
+    "io-ts": "1.8.2"
+  },
+  "resolutions": {
+    "fp-ts": "1.14.2"
+  }
+}

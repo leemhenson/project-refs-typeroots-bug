@@ -1,0 +1,15 @@
+{
+  "extends": "../../tsconfig.shared.json",
+  "compilerOptions": {
+    "baseUrl": ".",
+    "outDir": ".build",
+    "paths": {
+      "@shared/*": ["../../src/shared/*"]
+    }
+  },
+  "references": [
+    {
+      "path": "../../src/shared"
+    }
+  ]
+}
