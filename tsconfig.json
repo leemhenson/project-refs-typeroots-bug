@@ -1,3 +1,4 @@
 {
-  "references": [{ "path": "./stacks/project-one" }]
+  "references": [{ "path": "./stacks/project-one" }],
+  "files": []
 }
